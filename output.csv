@@ -1,67 +1,28 @@
-אֵב,bud
 אֲבָקָה,scent-powder
 אֱגֹוז,nut
 אַגָּן,bowl
-אָדֹם,red
-אֶדֶן,pedestal
 אֲהָבָה,love
-אָהָל,aloe
-אֹהֶל,tent
-אֹו,or
-אָז,then
-אָח,brother
-אֶחָד,one
 אָחֹות,sister
-אָחֻז,holding
-אַחַר,after
 אֵיכָה,how
 אֵיכָכָה,how
 אַיָּל,fallow-buck
 אַיָּלָה,doe
 אָיֹם,frightful
-אַיִן,\textit{NEG}
-אִישׁ,man
-אֶל,to
-אַל,not
-אֶלֶף,thousand
-אִם,if
-אֵם,mother
-אָמָּן,artisan
 אֲמָנָה,Amana
-אָן,whither
-אֲנִי,I
-אַף,even
-אַף,nose
 אָפִיק,stream
 אַפִּרְיֹון,litter
 אֶצְבַּע,finger
 אַרְגָּמָן,purple-wool
 ארה,pluck
-אֶרֶז,cedar
 אֲרִי,lion
-אֶרֶץ,earth
-אֵשׁ,fire
-אִשָּׁה,woman
 אֲשִׁישָׁה,raisin cake
 אֶשְׁכֹּול,grape
-אֲשֶׁר,\textit{relative}
-אֵת,\textit{object marker}
-אֵת,together with
-אַתְּ,you
-בְּ,in
-בְּאֵר,well
 בוז,despise
-בֶּטֶן,belly
-בַּיִן,interval
-בַּיִת,house
-בֵּן,son
-בַּעַד,distance
 בַּעַל הָמֹון,Baal Hamon
 בַּר,pure
 בְּרֹות,juniper
 בְּרֵכָה,pool
 בֹּשֶׂם,balsam-tree
-בַּת,daughter
 בַּת רַבִּים,Bath Rabbim
 בֶּתֶר,\textit{uncertain}
 גִּבֹּור,vigorous
@@ -74,116 +35,77 @@
 גַּם,even
 גַּן,garden
 גַּנָּה,garden
-גֶּפֶן,vine
 גֶּשֶׁם,rain
 דבב,flow
-דְּבַשׁ,honey
 דֶּגֶל,banner
 דגל,lift banner
-דָּוִד,David
-דֹּוד,beloved one
 דּוּדַי,mandrake
 דלג,ascend
-דַּלָּה,thread
 דֶּלֶת,door
 דמה,be like
 דַּמֶּשֶׂק,Damascus
 דפק,drive
-הֲ,\textit{interrogative}
-הַ,the
 הֹון,abundance
 הִיא,she
 הֵם,they
-הֵמָּה,they
 הִנֵּה,behold
-הַר,mountain
-וְ,and
 זֹאת,this
-זֶה,this
-זָהָב,gold
 זָמִיר,pruning
 זְרֹועַ,arm
 חֲבַצֶּלֶת,asphodel
 חבק,embrace
-חָבֵר,companion
 חָגוּ,abode
-חֶדֶר,room
-חָדָשׁ,new
 חֹוחַ,thorn
 חוּט,thread
 חֹומָה,wall
-חוּץ,outside
 חֹותָם,seal
 חִטָּה,wheat
 חַי,alive
 חֵךְ,palate
-חָלָב,milk
 חַלֹּון,window
 חֲלִי,ornament
 חלף,come after
 חמד,desire
-חַמָּה,heat
 חַמּוּק,turning
 חמק,turn away
 חנט,embalm
 חסר,diminish
 חֹר,hole
-חֶרֶב,dagger
 חֲרוּזִים,string of shells
 חֲרַכִּים,lattice
 חֶרְמֹון,Hermon
 חֶשְׁבֹּון,Heshbon
 חתם,seal
 חֲתֻנָּה,marriage
-טֹוב,good
-טֹוב,perfume
 טִירָה,encampment
 טַל,dew
 טנף,soil
-יָד,hand
-יֹום,day
 יֹונָה,dove
-יַיִן,wine
 יָמִין,right-hand side
 ינק,suck
-יַעַר,honeycomb
-יַעַר,wood
-יָפֶה,beautiful
 יְרוּשָׁלִַם,Jerusalem
 יְרִיעָה,curtain
 יָרֵךְ,upper thigh
 יָשֵׁן,sleeping
 יָשָׁן,old
 יִשְׂרָאֵל,Israel
-כְּ,as
 כבה,go out
-כִּי,that
 כָּכָה,thus
 כֹּל,whole
-כַּלָּה,bride
 כְּמֹו,like
-כֵּן,thus
-כֶּסֶף,silver
-כַּף,palm
-כֹּפֶר,henna
 כַּרְכֹּום,curcuma
-כֶּרֶם,vineyard
 כַּרְמֶל,Carmel
 כֹּתֶל,wall
 כֶּתֶם,gold
 כֻּתֹּנֶת,tunic
-לְ,to
-לֹא,not
 לֵב,heart
 לְבָנָה,full moon
 לְבֹנָה,incense
 לְבָנֹון,Lebanon
-לוּחַ,tablet
 לְחִי,jaw
 לַיְלָה,night
 לָמָה,why
 לָשֹׁון,tongue
-מֵאָה,hundred
 מאוּם,blemish
 מֶגֶד,present
 מִגְדָּל,tower
@@ -191,26 +113,19 @@
 מִדְבָּר,desert
 מִדְבָּר,speaking
 מַדְרֵגָה,steep way
-מָה,what
-מָוֶת,death
 מֶזֶג,mixed wine
 מְחֹלָה,round dance
 מַחְמָד,desire
 מַחֲנַיִם,Mahanaim
 מִטָּה,couch
-מִי,who
-מַיִם,water
 מֵישָׁרִים,uprightness
 מִלֵּאת,\textit{uncertain}
 מִלְחָמָה,war
-מֶלֶךְ,king
 מַלְכָּה,queen
 מַמְתַקִּים,sweetness
-מִן,from
 מַנְעוּל,lock
 מֵסַב,surrounding
 מִסְפָּר,number
-מְעַט,little
 מֵעִים,bowels
 מַעְיָן,well
 מְעֹנָה,hiding place
@@ -224,15 +139,11 @@
 מִשְׁכָּב,couch
 מִשְׁכָּן,dwelling-place
 מָתֹוק,sweet
-נָא,yeah
 נאה,be lovely
 נָאוֶה,lovely
-נֶגֶד,counterpart
 נָדִיב,willing
 נהג,drive
-נָהָר,stream
 נזל,flow
-נַחַל,wadi
 נחר,snort
 נטף,drop
 נטר,keep
@@ -241,7 +152,6 @@
 נַעַל,sandal
 נעל,lock
 נעם,be pleasant
-נֶפֶשׁ,soul
 נֹפֶת,honey
 נִצָּן,blossom
 נצץ,sparkle
@@ -253,57 +163,40 @@
 סַהַר,enclosure
 סוג,fence
 סוּסָה,mare
-סֶלַע,rock
 סְמָדַר,perule
 סַנְסִנָּה,date-fruit
 סַפִּיר,lapis lazuli
 סְתָו,winter
-סֵתֶר,hiding place
 עַד,unto
-עֵדֶר,flock
 עֵז,goat
 עַז,strong
 עטה,cover
 עטר,surround
 עֲטָרָה,wreath
-עַיִן,eye
 עֵין גֶּדִי,En Gedi
-עִיר,town
 עַל,upon
 עַלְמָה,young woman
 עלף,cover
 עִם,with
 עַם,people
 עַמּוּד,pillar
-עֵמֶק,valley
 עֲנָק,necklace
 עָסִיס,juice
-עֹפֶר,gazelle
-עֵץ,tree
-עָקֵב,heel
-עָרֵב,pleasant
-עֹרֵב,raven
 עֲרוּגָה,garden bed
 עֲרֵמָה,heap
 עֶרֶשׂ,couch
 עָשָׁן,smoke
 עֶשֶׁת,plate
-עֵת,time
 פַּג,unripe fig
-פֶּה,mouth
 פוח,breath
 פַּז,topaz
-פַּחַד,trembling
 פִּלֶגֶשׁ,concubine
 פֶּלַח,slice
-פָּנֶה,face
-פַּעַם,foot
 פצע,squeeze
 פַּרְדֵּס,park
 פרח,sprout
 פְּרִי,fruit
 פַּרְעֹה,pharaoh
-פֶּתַח,opening
 צֹאן,cattle
 צְבָאָה,she-gazelle
 צְבִי,gazelle
@@ -320,32 +213,24 @@
 צפן,hide
 צְרֹור,bag
 קֵדָר,Kedar
-קֹול,sound
 קֹומָה,height
 קְוֻצֹּות,hairlocks
 קֹורָה,beam
-קָטָן,small
 קִנְאָה,jealousy
-קָנֶה,reed
 קִנָּמֹון,cinnamon
 קפץ,draw together
 קצב,cut off
 קָשֶׁה,hard
-רֹאשׁ,head
 רַב,much
 רְבָבָה,multitude
 רבץ,lie down
-רֶגֶל,foot
 רְדִיד,wrapper
 רהב,storm against
 רַהַט,trough
 רָהִיט,rafter
-רְחֹב,open place
-רָחֵל,ewe
 רַחְצָה,washing
 רֵיחַ,scent
 ריק,be empty
-רֶכֶב,chariot
 רכל,trade
 רִמֹּון,pomegranate
 רָסִיס,drop
@@ -359,7 +244,6 @@
 רַקָּה,temple
 רֶקַח,spice
 רֶשֶׁף,flame
-שַׁ,\textit{relative}
 שְׁאֹול,nether world
 שׁגח,gaze
 שַׁד,breast
@@ -373,7 +257,6 @@
 שָׁחֹר,black
 שְׁחַרְחֹר,blackish
 שׁטף,wash off
-שִׁיר,song
 שַׁכּוּל,bereaved of children
 שׁכר,be drunk
 שַׁלְהֶבֶתְיָה,big flame
@@ -383,32 +266,23 @@
 שְׁלֹמֹה,Solomon
 שֵׁם,name
 שָׁם,there
-שֶׁמֶן,oil
 שְׁמֹנֶה,eight
-שֶׁמֶשׁ,sun
 שֵׁן,tooth
 שָׁנִי,scarlet
 שְׁנַיִם,two
-שַׁעַר,gate
 שׁקף,look
 שֹׁר,navel
 שָׁרֹון,Sharon
-שֵׁשׁ,alabaster
-שֵׁשׁ,six
 שָׂדֶה,open field
 שַׂלְמָה,wrapper
 שְׂמֹאל,left-hand side
 שִׂמְחָה,joy
 שְׂנִיר,Senir
-שֵׂעָר,hair
-שָׂפָה,lip
 תאם,bear twins
 תְּאֵנָה,fig
 תֹּואֲמִם,twins
-תָּוֶךְ,midst
 תֹּור,dove
 תֹּור,turn
-תַּחַת,under part
 תֵּימָן,south
 תִּימָרָה,column
 תלה,hang
