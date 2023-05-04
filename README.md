@@ -10,7 +10,8 @@
 
 ## How much has been developed
 * At the moment, this is a simple early version - I want to make it slightly more complicated soon
-* For example, I want to make it so you have the option to not generate words that are in the 500 most common list, or a list that you have supplied
+* For example, I want to make it so you have the option to not generate words that are in a list that you have supplied
+* I also need to add command line arguments to make it easier to make tweak the code
 
 ## How do I use this?
 * Run the python file, changing code as needed. My next aim is to add command line arguments so you can set everything up, but till then, you'll have to tweak values manually in the code

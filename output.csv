@@ -3,24 +3,32 @@
 אַגָּן,bowl
 אֲהָבָה,love
 אָחֹות,sister
+אָחֻז,holding
+אחז,seize
 אֵיכָה,how
 אֵיכָכָה,how
 אַיָּל,fallow-buck
 אַיָּלָה,doe
 אָיֹם,frightful
 אֲמָנָה,Amana
+אָן,whither
+אסר,bind
 אָפִיק,stream
 אַפִּרְיֹון,litter
 אֶצְבַּע,finger
 אַרְגָּמָן,purple-wool
 ארה,pluck
+אֶרֶז,cedar
 אֲרִי,lion
 אֲשִׁישָׁה,raisin cake
 אֶשְׁכֹּול,grape
+בְּאֵר,well
 בוז,despise
+בֶּטֶן,belly
 בַּעַל הָמֹון,Baal Hamon
 בַּר,pure
 בְּרֹות,juniper
+ברח,run away
 בְּרֵכָה,pool
 בֹּשֶׂם,balsam-tree
 בַּת רַבִּים,Bath Rabbim
@@ -28,6 +36,7 @@
 גִּבֹּור,vigorous
 גִּבְעָה,hill
 גְּדִיָּה,young goat
+גיל,rejoice
 גַּל,"wave, heap"
 גָּלִיל,pivot
 גִּלְעָד,Gilead
@@ -35,8 +44,10 @@
 גַּם,even
 גַּן,garden
 גַּנָּה,garden
+גֶּפֶן,vine
 גֶּשֶׁם,rain
 דבב,flow
+דְּבַשׁ,honey
 דֶּגֶל,banner
 דגל,lift banner
 דּוּדַי,mandrake
@@ -49,19 +60,26 @@
 הִיא,she
 הֵם,they
 הִנֵּה,behold
+הרה,be pregnant
 זֹאת,this
 זָמִיר,pruning
 זְרֹועַ,arm
+חבל,be corrupt
+חבל,be pregnant
 חֲבַצֶּלֶת,asphodel
 חבק,embrace
+חָבֵר,companion
 חָגוּ,abode
+חֶדֶר,room
 חֹוחַ,thorn
 חוּט,thread
 חֹומָה,wall
 חֹותָם,seal
+חזה,see
 חִטָּה,wheat
 חַי,alive
 חֵךְ,palate
+חלה,become weak
 חַלֹּון,window
 חֲלִי,ornament
 חלף,come after
@@ -70,6 +88,7 @@
 חמק,turn away
 חנט,embalm
 חסר,diminish
+חפץ,desire
 חֹר,hole
 חֲרוּזִים,string of shells
 חֲרַכִּים,lattice
@@ -83,6 +102,11 @@
 יֹונָה,dove
 יָמִין,right-hand side
 ינק,suck
+יסד,found
+יַעַר,honeycomb
+יַעַר,wood
+יָפֶה,beautiful
+יפה,be beautiful
 יְרוּשָׁלִַם,Jerusalem
 יְרִיעָה,curtain
 יָרֵךְ,upper thigh
@@ -102,9 +126,12 @@
 לְבָנָה,full moon
 לְבֹנָה,incense
 לְבָנֹון,Lebanon
+לוּחַ,tablet
 לְחִי,jaw
 לַיְלָה,night
+לין,lodge
 לָמָה,why
+לקט,gather
 לָשֹׁון,tongue
 מאוּם,blemish
 מֶגֶד,present
@@ -163,11 +190,14 @@
 סַהַר,enclosure
 סוג,fence
 סוּסָה,mare
+סֶלַע,rock
 סְמָדַר,perule
+סמך,support
 סַנְסִנָּה,date-fruit
 סַפִּיר,lapis lazuli
 סְתָו,winter
 עַד,unto
+עֵדֶר,flock
 עֵז,goat
 עַז,strong
 עטה,cover
@@ -180,6 +210,7 @@
 עִם,with
 עַם,people
 עַמּוּד,pillar
+עֵמֶק,valley
 עֲנָק,necklace
 עָסִיס,juice
 עֲרוּגָה,garden bed
@@ -190,6 +221,7 @@
 פַּג,unripe fig
 פוח,breath
 פַּז,topaz
+פַּחַד,trembling
 פִּלֶגֶשׁ,concubine
 פֶּלַח,slice
 פצע,squeeze
@@ -197,6 +229,7 @@
 פרח,sprout
 פְּרִי,fruit
 פַּרְעֹה,pharaoh
+פשׁט,strip off
 צֹאן,cattle
 צְבָאָה,she-gazelle
 צְבִי,gazelle
@@ -204,6 +237,7 @@
 צָהֳרַיִם,noon
 צַוָּאר,neck
 צוץ,glance
+צור,bind
 צַוְּרֹנִים,necklace
 צַח,clear
 צִיֹּון,Zion
@@ -216,10 +250,12 @@
 קֹומָה,height
 קְוֻצֹּות,hairlocks
 קֹורָה,beam
+קָטָן,small
 קִנְאָה,jealousy
 קִנָּמֹון,cinnamon
 קפץ,draw together
 קצב,cut off
+קשׁב,give attention
 קָשֶׁה,hard
 רַב,much
 רְבָבָה,multitude
@@ -228,6 +264,8 @@
 רהב,storm against
 רַהַט,trough
 רָהִיט,rafter
+רָחֵל,ewe
+רחץ,wash
 רַחְצָה,washing
 רֵיחַ,scent
 ריק,be empty
@@ -238,6 +276,7 @@
 רַעְיָה,girl friend
 רַעֲנָן,luxuriant
 רפד,spread out
+רפה,be slack
 רְפִידָה,saddle-cloth
 רפק,lean
 רצף,fit
@@ -251,6 +290,7 @@
 שׁוּעָל,fox
 שֹׁוק,splint-bone
 שׁוּק,street
+שׁור,descend
 שׁוּשַׁן,lily
 שׁזף,catch sight
 שַׁחַר,dawn
@@ -258,6 +298,7 @@
 שְׁחַרְחֹר,blackish
 שׁטף,wash off
 שַׁכּוּל,bereaved of children
+שׁכם,rise early
 שׁכר,be drunk
 שַׁלְהֶבֶתְיָה,big flame
 שָׁלֹום,peace
@@ -270,6 +311,7 @@
 שֵׁן,tooth
 שָׁנִי,scarlet
 שְׁנַיִם,two
+שׁקה,give drink
 שׁקף,look
 שֹׁר,navel
 שָׁרֹון,Sharon

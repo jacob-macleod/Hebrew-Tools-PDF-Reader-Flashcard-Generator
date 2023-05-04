@@ -12,7 +12,7 @@ def removeVowels(text: str) -> str:
     return re.sub(vowel_pattern, "", text)
 
 # Store the most common words and definitions from the csv file
-with open ("1000MostCommon.csv", "r") as csvfile:
+with open ("500MostCommon.csv", "r") as csvfile:
     reader = csv.reader(csvfile)
     for line in reader:
         mostCommonWords.append(line[0])
