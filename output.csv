@@ -4,7 +4,6 @@
 אַגָּן,bowl
 אָדֹם,red
 אֶדֶן,pedestal
-אהב,love
 אֲהָבָה,love
 אָהָל,aloe
 אֹהֶל,tent
@@ -23,7 +22,6 @@
 אָיֹם,frightful
 אַיִן,\textit{NEG}
 אִישׁ,man
-אכל,eat
 אֶל,to
 אַל,not
 אֶלֶף,thousand
@@ -31,7 +29,6 @@
 אֵם,mother
 אָמָּן,artisan
 אֲמָנָה,Amana
-אמר,say
 אָן,whither
 אֲנִי,I
 אסר,bind
@@ -50,23 +47,18 @@
 אֲשִׁישָׁה,raisin cake
 אֶשְׁכֹּול,grape
 אֲשֶׁר,\textit{relative}
-אשׁר,be happy
 אֵת,\textit{object marker}
 אֵת,together with
 אַתְּ,you
 בְּ,in
 בְּאֵר,well
-בוא,come
 בוז,despise
-בחר,examine
 בֶּטֶן,belly
 בַּיִן,interval
 בַּיִת,house
 בֵּן,son
-בנה,build
 בַּעַד,distance
 בַּעַל הָמֹון,Baal Hamon
-בקשׁ,seek
 בַּר,pure
 בְּרֹות,juniper
 ברח,run away
@@ -89,8 +81,6 @@
 גֶּפֶן,vine
 גֶּשֶׁם,rain
 דבב,flow
-דבר,push back
-דבר,speak
 דְּבַשׁ,honey
 דֶּגֶל,banner
 דגל,lift banner
@@ -107,12 +97,8 @@
 הַ,the
 הֹון,abundance
 הִיא,she
-היה,be
-הלך,walk
-הלל,praise
 הֵם,they
 הֵמָּה,they
-המה,make noise
 הִנֵּה,behold
 הַר,mountain
 הרה,be pregnant
@@ -120,7 +106,6 @@
 זֹאת,this
 זֶה,this
 זָהָב,gold
-זכר,remember
 זָמִיר,pruning
 זְרֹועַ,arm
 חבל,be corrupt
@@ -162,17 +147,13 @@
 חֲתֻנָּה,marriage
 טֹוב,good
 טֹוב,perfume
-טוב,be good
 טִירָה,encampment
 טַל,dew
 טנף,soil
 יָד,hand
-ידע,know
 יֹום,day
 יֹונָה,dove
 יַיִן,wine
-יכל,be able
-ילד,bear
 יָמִין,right-hand side
 ינק,suck
 יסד,found
@@ -180,12 +161,9 @@
 יַעַר,wood
 יָפֶה,beautiful
 יפה,be beautiful
-יצא,go out
-ירד,descend
 יְרוּשָׁלִַם,Jerusalem
 יְרִיעָה,curtain
 יָרֵךְ,upper thigh
-ישׁב,sit
 יָשֵׁן,sleeping
 יָשָׁן,old
 יִשְׂרָאֵל,Israel
@@ -209,16 +187,13 @@
 לְ,to
 לֹא,not
 לֵב,heart
-לבב,stir
 לְבָנָה,full moon
 לְבֹנָה,incense
 לְבָנֹון,Lebanon
-לבשׁ,clothe
 לוּחַ,tablet
 לְחִי,jaw
 לַיְלָה,night
 לין,lodge
-למד,learn
 לָמָה,why
 לקט,gather
 לָשֹׁון,tongue
@@ -240,7 +215,6 @@
 מִי,who
 מַיִם,water
 מֵישָׁרִים,uprightness
-מלא,be full
 מִלֵּאת,\textit{uncertain}
 מִלְחָמָה,war
 מֶלֶךְ,king
@@ -255,7 +229,6 @@
 מַעְיָן,well
 מְעֹנָה,hiding place
 מַעֲשֶׂה,deed
-מצא,find
 מֹר,myrrh
 מַרְאֶה,sight
 מֶרְכָּב,chariot
@@ -269,18 +242,14 @@
 נאה,be lovely
 נָאוֶה,lovely
 נֶגֶד,counterpart
-נגד,report
-נגע,touch
 נָדִיב,willing
 נהג,drive
 נָהָר,stream
-נוס,flee
 נזל,flow
 נַחַל,wadi
 נחר,snort
 נטף,drop
 נטר,keep
-נכה,strike
 נָמֵר,leopard
 נָעִים,pleasant
 נַעַל,sandal
@@ -294,9 +263,6 @@
 נֵרְדְּ,nard
 נְשִׁיקָה,kiss
 נשׁק,kiss
-נשׂא,lift
-נתן,give
-סבב,turn
 סָבִיב,surrounding
 סַהַר,enclosure
 סוג,fence
@@ -308,10 +274,8 @@
 סַפִּיר,lapis lazuli
 סְתָו,winter
 סֵתֶר,hiding place
-עבר,pass
 עַד,unto
 עֵדֶר,flock
-עור,be awake
 עֵז,goat
 עַז,strong
 עטה,cover
@@ -321,15 +285,12 @@
 עֵין גֶּדִי,En Gedi
 עִיר,town
 עַל,upon
-עלה,ascend
 עַלְמָה,young woman
 עלף,cover
 עִם,with
 עַם,people
-עמד,stand
 עַמּוּד,pillar
 עֵמֶק,valley
-ענה,answer
 עֲנָק,necklace
 עָסִיס,juice
 עֹפֶר,gazelle
@@ -342,7 +303,6 @@
 עֶרֶשׂ,couch
 עָשָׁן,smoke
 עֶשֶׁת,plate
-עשׂה,make
 עֵת,time
 פַּג,unripe fig
 פֶּה,mouth
@@ -352,7 +312,6 @@
 פִּלֶגֶשׁ,concubine
 פֶּלַח,slice
 פָּנֶה,face
-פנה,turn
 פַּעַם,foot
 פצע,squeeze
 פַּרְדֵּס,park
@@ -361,7 +320,6 @@
 פַּרְעֹה,pharaoh
 פשׁט,strip off
 פֶּתַח,opening
-פתח,open
 צֹאן,cattle
 צְבָאָה,she-gazelle
 צְבִי,gazelle
@@ -375,27 +333,22 @@
 צִיֹּון,Zion
 צֵל,shadow
 צַמָּה,veil
-צפה,look out
 צָפֹון,north
 צפן,hide
 צְרֹור,bag
 קֵדָר,Kedar
 קֹול,sound
-קום,arise
 קֹומָה,height
 קְוֻצֹּות,hairlocks
 קֹורָה,beam
 קָטָן,small
-קטר,smoke
 קִנְאָה,jealousy
 קָנֶה,reed
 קִנָּמֹון,cinnamon
 קפץ,draw together
 קצב,cut off
-קרא,call
 קשׁב,give attention
 קָשֶׁה,hard
-ראה,see
 רֹאשׁ,head
 רַב,much
 רְבָבָה,multitude
@@ -405,7 +358,6 @@
 רהב,storm against
 רַהַט,trough
 רָהִיט,rafter
-רוץ,run
 רְחֹב,open place
 רָחֵל,ewe
 רחץ,wash
@@ -417,7 +369,6 @@
 רִמֹּון,pomegranate
 רָסִיס,drop
 רֵעַ,fellow
-רעה,pasture
 רַעְיָה,girl friend
 רַעֲנָן,luxuriant
 רפד,spread out
@@ -430,10 +381,8 @@
 רֶשֶׁף,flame
 שַׁ,\textit{relative}
 שְׁאֹול,nether world
-שׁבע,swear
 שׁגח,gaze
 שַׁד,breast
-שׁוב,return
 שׁוּלַמִּי,Shulammite
 שׁוּעָל,fox
 שֹׁוק,splint-bone
@@ -451,7 +400,6 @@
 שׁכר,be drunk
 שַׁלְהֶבֶתְיָה,big flame
 שָׁלֹום,peace
-שׁלח,send
 שְׁלָחִים,channel
 שֶׁלֶט,shield
 שְׁלֹמֹה,Solomon
@@ -459,8 +407,6 @@
 שָׁם,there
 שֶׁמֶן,oil
 שְׁמֹנֶה,eight
-שׁמע,hear
-שׁמר,keep
 שֶׁמֶשׁ,sun
 שֵׁן,tooth
 שָׁנִי,scarlet
@@ -472,12 +418,9 @@
 שָׁרֹון,Sharon
 שֵׁשׁ,alabaster
 שֵׁשׁ,six
-שׁתה,drink
 שָׂדֶה,open field
-שׂים,put
 שַׂלְמָה,wrapper
 שְׂמֹאל,left-hand side
-שׂמח,rejoice
 שִׂמְחָה,joy
 שְׂנִיר,Senir
 שֵׂעָר,hair
