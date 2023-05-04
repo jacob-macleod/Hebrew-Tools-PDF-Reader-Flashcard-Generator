@@ -19,6 +19,5 @@ with open("demo.tex", "r") as file:
 # Save words and definitions to the csv file
 with open("output.csv", "w") as csvfile:
     writer = csv.writer(csvfile)
-    writer.writerow(["Word", "Definition"])
     for i in range(len(words)):
         writer.writerow([words[i], definitions[i]])
