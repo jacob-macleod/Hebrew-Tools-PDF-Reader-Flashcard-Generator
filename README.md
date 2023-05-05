@@ -8,7 +8,7 @@
   * The file contains word and definition
 * This .csv file can easily be imported into programs such as Anki, to give flashcards for a specific book
 
-## How much has been developed
+## How much has been developed?
 * At the moment, this is a simple early version - I want to make it slightly more complicated soon
 * For example, I want to make it so you have the option to not generate words that are in a list that you have supplied
 * I also need to add command line arguments to make it easier to make tweak the code
